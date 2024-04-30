@@ -69,20 +69,16 @@ Os dois algoritmos de agrupamento não apresentaram boas métricas de performanc
 # Resultados
 
 ## Ensaio de classificação:
-### Sobre os dados de treinamento
+---
 ![classificacao](img/ensaio_classificacao.png)
 
-
 ## Ensaio de regressão:
-### Sobre os dados de treinamento
-![regressao_treinamento]( img/ensaio_regressao_dados_treinamento.png)
-### Sobre os dados de validação
-![regressao_validacao]( img/ensaio_regressao_dados_validacao.png)
-### Sobre os dados de teste
-![regressao_teste]( img/ensaio_regressao_dados_teste.png)
+---
+![regressao]( img/ensaio_regressao.png)
 
 ## Ensaio de clusterização:
-![clusterizacao_treinamento]( img/ensaio_clusterizacao.png)
+---
+![clusterizacao]( img/ensaio_clusterizacao.png)
 
 # Conclusão
 Neste estudo de Machine Learning, adquiri experiência significativa e uma compreensão mais profunda sobre o funcionamento de diversos algoritmos. Os modelos baseados em árvores, por exemplo, são sensíveis à profundidade do crescimento e ao número de árvores na floresta e os algoritmos de regressão são sensíveis ao grau do polinômio.
