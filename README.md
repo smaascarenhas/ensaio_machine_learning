@@ -70,13 +70,8 @@ Os dois algoritmos de agrupamento não apresentaram boas métricas de performanc
 
 ## Ensaio de classificação:
 ### Sobre os dados de treinamento
-![classificacao_treinamento](
-img/ensaio_classificacao_dados_treinamento.png)
-### Sobre os dados de validação
-![classificacao_validacao](
-img/ensaio_classificacao_dados_validacao.png)
-### Sobre os dados de teste
-![classificacao_teste]( img/ensaio_classificacao_dados_teste.png)
+![classificacao](img/ensaio_classificacao.png)
+
 
 ## Ensaio de regressão:
 ### Sobre os dados de treinamento
