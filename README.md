@@ -1,16 +1,10 @@
 ![capa](img/capa_ensaio.jpg)
 # Ensaio de Machine Learning
 ## Descrição
-Este projeto tem como objetivo melhorar a performance dos modelos por meio do ajuste dos hiperparâmetros. Serão realizados ensaios com algoritmos de Classificação, Regressão e Clusterização para estudar como a performance se comporta à medida que os principais parâmetros de controle de overfitting e underfitting são modificados.
-
-## Objetivo
-O objetivo desse projeto será realizar ensaios com algoritmos de
-Classificação, Regressão e Clusterização, para estudar a mudança do
-comportamento da performance, a medida que os valores dos principais
-parâmetros de controle de overfitting e underfitting mudam.
+Este projeto tem como objetivo melhorar a performance dos modelos por meio do ajuste dos hiperparâmetros. Serão realizados ensaios com algoritmos de Classificação, Regressão e Clusterização para estudar como a performance se comporta à medida que os principais parâmetros de controle de overfitting e underfitting são modificados. Além disso, será observada a capacidade dos modelos de generalizar bem para os dados de teste.
 
 # Planejamento da solução
-A solução  será 7 tabelas mostrando a performance dos algoritmos, avaliados usando múltiplas métricas, para 3 conjuntos de dados diferentes: Treinamento, Validação e Teste.
+A solução será 5 tabelas mostrando a performance dos algoritmos, avaliados usando múltiplas métricas, para 3 conjuntos de dados diferentes: Treinamento, Validação e Teste.
 
 ## Algoritmos ensaiados
 ### Classificação:
