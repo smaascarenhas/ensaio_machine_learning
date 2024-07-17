@@ -1,5 +1,6 @@
-![capa](img/capa_ensaio.jpg)
 # Ensaio de Machine Learning
+![capa](img/capa_ensaio.jpg)
+
 ## Descrição
 Este projeto tem como objetivo melhorar a performance dos modelos por meio do ajuste dos hiperparâmetros. Serão realizados ensaios com algoritmos de Classificação, Regressão e Clusterização para estudar como a performance se comporta à medida que os principais parâmetros de controle de overfitting e underfitting são modificados. Além disso, será observada a capacidade dos modelos de generalizar bem para os dados de teste.
 
