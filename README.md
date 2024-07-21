@@ -26,7 +26,11 @@ Algoritmos: K-Means e Affinity Propagation
 
 Métricas de performance: Silhouette Score
 ## Ferramentas utilizadas
-Python 3.11 e Scikit-learn
+- **Bibliotecas:** Python 3.11 e Scikit-learn
+- **Algoritmos de classificação:** KNN, Decision Tree, Random Forest e Logistic Regression
+- **Métricas de performance:** Accuracy, Precision, Recall, F1-Score, R2, MSE, RMSE, MAE, MAPE e Silhouette Score
+- **Algoritmos de regressão:** Linear Regression, Decision Tree Regressor, Random Forest Regressor, Polinomial Regression, Linear Regression Lasso, Linear Regression Ridge, Linear Regression Elastic Net, Polinomial Regression Lasso, Polinomial Regression Ridge e Polinomial Regression Elastic Net
+- **Algoritmos de agrupamento:** K-Means e Affinity Propagation
 
 # Desenvolvimento
 ## Estratégia da solução
